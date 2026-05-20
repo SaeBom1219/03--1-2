@@ -67,3 +67,5 @@ void PrintReversedString(char* str) { // 10. PrintReversedString() 함수 정의
 		p--;
 	}
 }
+
+// hello world
