@@ -77,3 +77,4 @@ void PrintItems(int** inventory, int n, int m) {
     }
 }
 
+// 2번 팀 원 수정
